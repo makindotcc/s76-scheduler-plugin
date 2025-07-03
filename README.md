@@ -18,9 +18,10 @@ sudo systemctl enable --now com.system76.Scheduler.service
 ```
 
 ### Online
-You can find the plugin here: https://extensions.gnome.org/extension/4854/system76-scheduler/
+Outdated:\
+~~You can find the plugin here: https://extensions.gnome.org/extension/4854/system76-scheduler/~~
 
-Alternatively, search for  "System76 Scheduler" in [Extension Manager](https://github.com/mjakeman/extension-manager).
+~~Alternatively, search for  "System76 Scheduler" in [Extension Manager](https://github.com/mjakeman/extension-manager).~~
 
 ### Source
 You can also install the extension from source. Clone the repository
